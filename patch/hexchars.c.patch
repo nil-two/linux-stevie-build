@@ -1,0 +1,12 @@
+287c287
+< 		sprintf(++p,"%03o]",n);
+---
+> 		// sprintf(++p,"%03o]",n);
+305c305
+< 		sprintf(++p,"x%02X]",n);
+---
+> 		// sprintf(++p,"x%02X]",n);
+323c323
+< 		sprintf(++p,"%3d]",n);
+---
+> 		// sprintf(++p,"%3d]",n);

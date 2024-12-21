@@ -1,0 +1,4 @@
+9c9
+< #define ATARI		1	/* For the Atari 520 ST */
+---
+> /* #define ATARI		1	/* For the Atari 520 ST */
